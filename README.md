@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi!  I'm Joseph Curtis
+
+- 🌱 I’m currently forever learning
+- ⚡ Fun fact: I know how to ride a unicycle
+- 📫 How to reach me: joseph@internetmarketing.buzz
 
 <!--
 **toklok/toklok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
